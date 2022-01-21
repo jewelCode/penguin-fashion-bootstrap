@@ -1,9 +1,5 @@
-h1,
-h3 {
+h1, h3 {
     font-family: 'Bebas Neue', cursive;
 }
 
 
-body {
-    overflow: hidden;
-}
